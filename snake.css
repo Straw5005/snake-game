@@ -1,0 +1,12 @@
+body {
+font-family: 'Courier New', Courier, monospace;
+margin: 0;
+padding: 1rem 2rem;
+background-color: hsla(0, 0%, 0%, 0.959);
+color: hsl(202, 72%, 52%);
+display: flex;
+flex-direction: column;
+align-items: center;
+text-transform: uppercase;
+font-weight: 600;
+}
